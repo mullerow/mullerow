@@ -2,7 +2,7 @@
 
 ## CODING = FUN 🌋
 
-## CODING = Challenging 🤺
+## CODING = CHALLENGING 🤺
 
 ## CODING = FUTURE 🛸
 
