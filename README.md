@@ -15,4 +15,12 @@
 
 ## I am currently studying:
 
-![logo of HTML](https://logowik.com/content/uploads/images/t_css3-html51661.jpg)   <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="Javascript" width="200"/>
+<div>
+  <img src="https://logowik.com/content/uploads/images/492_html5.jpg" alt="Javascript" width="200"/>
+  <img src="https://logowik.com/content/uploads/images/123_css3.jpg" alt="Javascript" width="200"/>
+  <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="Javascript" width="200"/>
+  <img src="https://logowik.com/content/uploads/images/node-js6304.logowik.com.webp" alt="Node.js" width="200"/>
+</div>
+
+
+
