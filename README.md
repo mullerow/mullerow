@@ -1,16 +1,16 @@
 # Moin! I´m Max 👋
 
-## CODING = FUN 🌋
+### CODING = FUN 🌋
 
-## CODING = CHALLENGING 🤺
+### CODING = CHALLENGING 🤺
 
-## CODING = FUTURE 🛸
+### CODING = FUTURE 🛸
 
-## CODING = FREEDOM 🐳
+### CODING = FREEDOM 🐳
 
-## CODING = CONNECTION ⚗️
+### CODING = CONNECTION ⚗️
 
-## CODING != JUST A JOB ♟️
+### CODING != JUST A JOB ♟️
 
 
 ## I am currently studying:
