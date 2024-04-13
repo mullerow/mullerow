@@ -13,6 +13,9 @@
     
 ### CODING != JUST A JOB ♟️
 
+## at the moment i am working on this extensive <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">single page app</a> based on vue.js about accessibility:
+
+
 
 ## I am currently studying:
 
