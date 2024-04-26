@@ -13,7 +13,7 @@
     
 ### CODING != JUST A JOB ♟️
 
-## Right now i am coding on this extensive <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">single page app</a> based on vue.js about accessibility
+## the first version of our accessibility app (Abled) is ready. It will be deployed shortly and can then be tested. <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">Link to the repository </a>
 
 
 
