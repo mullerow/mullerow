@@ -13,7 +13,7 @@
     
 ### CODING != JUST A JOB ♟️
 
-## the first version of our accessibility app (Abled) is ready. It will be deployed shortly and can then be tested. <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">Link to the repository </a> (the app will soon be deployed and can then be tested)
+## the first version of our accessibility app (Abled) is ready. It will be deployed shortly and can then be tested. <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">Link to the repository </a>
 
 
 
