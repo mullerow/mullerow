@@ -21,6 +21,7 @@
  <img src="abled-app-landingpage-demo.png" alt=abled-app-landingpage" width="150";/>
   <img src="abled-app-search-demo.png" alt=abled-app-landingpage" width="150";/>
   <img src="abled-app-map-demo.png" alt=abled-app-landingpage" width="150";/>
+  <img src="abled-app-info-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
 </div>
 
 
