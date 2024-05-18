@@ -17,13 +17,15 @@
 * <a href="https://abledapp.netlify.app/">here you can try out the published app</a>
 *  <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">Link to the repository </a>  
 (The app is still under development and is constantly being expanded ) <br>
-(<b>Caution!</b> The database is currently not connected, which is why the app only works to a limited extent)
-
+<div >
+ <img src="abled-app-landingpage-demo.png" alt=abled-app-landingpage" width="150";/>
+  <img src="abled-app-search-demo.png" alt=abled-app-landingpage" width="150";/>
+</div>
 
 
 ## I am currently studying:
 
-<div>
+
   <img src="https://logowik.com/content/uploads/images/492_html5.jpg" alt="Javascript" width="150"/>
   <img src="https://logowik.com/content/uploads/images/123_css3.jpg" alt="Javascript" width="150"/>
   <img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" alt="Javascript" width="150"/>
