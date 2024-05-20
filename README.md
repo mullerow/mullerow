@@ -19,10 +19,10 @@
 (The app is still under development and is constantly being expanded ) <br>
 <div >
  <img src="abled-app-landingpage-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
-  <img src="abled-app-search-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
-  <img src="abled-app-resultlist-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
-  <img src="abled-app-map-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
-  <img src="abled-app-info-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
+  <img src="abled-app-search-demo.png" alt=abled-app-Searchpage" width="150"; height= "315px";/>
+  <img src="abled-app-resultlist-demo.png" alt=abled-app-resultlist" width="150"; height= "315px";/>
+  <img src="abled-app-map-demo.png" alt=abled-app-map" width="150"; height= "315px";/>
+  <img src="abled-app-info2-demo.png" alt=abled-app-Infogpage" width="150"; height= "315px";/>
 
 </div>
 
