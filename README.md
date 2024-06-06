@@ -18,11 +18,11 @@
 *  <a href="https://github.com/coding-bootcamps-eu/final-project-2024-01-accessibility">Link to the repository </a>  
 (The app is still under development and is constantly being expanded ) <br>
 <div >
- <img src="abled-app-landingpage-demo.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
-  <img src="abled-app-search-demo.png" alt=abled-app-Searchpage" width="150"; height= "315px";/>
-  <img src="abled-app-resultlist-demo.png" alt=abled-app-resultlist" width="150"; height= "315px";/>
-  <img src="abled-app-map-demo.png" alt=abled-app-map" width="150"; height= "315px";/>
-  <img src="abled-app-info2-demo.png" alt=abled-app-Infogpage" width="150"; height= "315px";/>
+ <img src="landingpage.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
+  <img src="Suchfunktion.png" alt=abled-app-Searchpage" width="150"; height= "315px";/>
+  <img src="Resultlist.png" alt=abled-app-resultlist" width="150"; height= "315px";/>
+  <img src="abledmap.png" alt=abled-app-map" width="150"; height= "315px";/>
+  <img src="detailview.png" alt=abled-app-Infogpage" width="150"; height= "315px";/>
 
 </div>
 
