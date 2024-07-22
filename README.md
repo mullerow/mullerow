@@ -22,11 +22,19 @@
   <img src="Resultlist.png" alt=abled-app-resultlist" width="150"; height= "315px";/>
   <img src="abledmap.png" alt=abled-app-map" width="150"; height= "315px";/>
   <img src="detailview.png" alt=abled-app-Infogpage" width="150"; height= "315px";/>
-
+ 
 </div>
-
-
-## I am currently studying:
+<hr>
+<h3>PLANTAS GAME</h3>
+  
+  <p>
+To further develop my vue.js skills and to deal with complex amounts of data i am developing the game PLANTAS. The aim is to create a kind of plant simulation. The focus is on the struggle for survival against many factors such as light, water, phosphorus, cold, heat, predators and parasites. On the map, competing plants will fight against you for the best places in the sun and also force you underground to grow your roots wisely. The aim will usually be to develop the plant to the point where it produces flowers and eventually seeds. As soon as the survival of the species is ensured by new shoots, the game is won.
+  </p>
+ <img src="Plantas-state-22.07.24.png" alt=Plantas-Game" width="500"; height= "315px";/>
+<div >
+  
+</div>
+<h3>I am currently studying:</h3>
 
 <div >
   <img src="https://logowik.com/content/uploads/images/492_html5.jpg" alt="Javascript" width="150"/>
