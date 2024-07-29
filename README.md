@@ -12,10 +12,9 @@
     
 ### CODING != JUST A JOB ♟️
 
-## the first version of our accessibility app (Abled) is ready. 
+## the currently version of our accessibility app (Abled) is ready. 
 * <a href="https://abledapp.netlify.app/">here you can try out the published app</a>
 *  <a href="https://github.com/mullerow/Abled-App">Link to the repository </a>  
-(The app is still under development and is constantly being expanded ) <br>
 <div >
  <img src="landingpage.png" alt=abled-app-landingpage" width="150"; height= "315px";/>
   <img src="Suchfunktion.png" alt=abled-app-Searchpage" width="150"; height= "315px";/>
