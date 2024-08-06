@@ -29,7 +29,7 @@
   <p>
 To further develop my vue.js skills and to deal with complex amounts of data i am developing the game PLANTAS. The aim is to create a kind of plant simulation. The focus is on the struggle for survival against many factors such as light, water, phosphorus, cold, heat, predators and parasites. On the map, competing plants will fight against you for the best places in the sun and also force you underground to grow your roots wisely. The aim will usually be to develop the plant to the point where it produces flowers and eventually seeds. As soon as the survival of the species is ensured by new shoots, the game is won.
   </p>
- <img src="Plantas-state-29.07.24.png" alt=Plantas-Game" width="500"; height= "315px";/>
+ <img src="Plantas-state-06.08.24.png" alt=Plantas-Game" width="999"; height= "809px";/>
 <div >
   
 </div>
