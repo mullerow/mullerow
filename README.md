@@ -9,8 +9,6 @@
 ### CODING = FREEDOM 🐳
     
 ### CODING = CONNECTION ⚗️
-    
-### CODING != JUST A JOB ♟️
 
 ## the currently version of our accessibility app (Abled) is ready. 
 * <a href="https://abledapp.netlify.app/">here you can try out the published app</a>
